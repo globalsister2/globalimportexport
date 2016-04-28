@@ -1,0 +1,87 @@
+body
+{
+    background-color: aqua
+}/*spock*/
+
+#heading
+{
+    text-align: center; background-color: white; font-size: 30px; font-family: 'Roboto Slab', serif;
+}/*nearly there*/
+
+#navbar
+{
+ font-size: 25px; list-style-type: none; margin: 0;padding: 0; text-align: center;
+}
+
+#navbar li
+{
+    display: inline
+}
+
+#navbar a
+{
+    display: inline-block; padding: 10px;
+}
+
+li
+{
+    text-align: left
+}/*going along*/
+ul
+{
+    text-align: left
+}/*here we go*/
+
+#main1
+{
+    background-color: #D6DB39 ; font-family: 'Vollkorn', serif; 
+    width:100%;
+    height:325px;
+}/*two more to go*/
+
+
+
+#main2
+{
+    text-align: left; background-color: #D6DB39;
+     width:100%;
+    height:325px;
+    margin-top:3%;
+}
+#main3
+{
+    text-align: left; background-color: #D6DB39;
+     width:100%;
+    height:325px;
+    margin-top:3%;
+}
+#footer
+{
+    text-align: center; background-color: white;
+}
+.image
+{
+    height: 300px;
+}
+
+.sectionheader
+{
+    background-color: #d49090; font-family: 'Roboto Slab', serif; font-size: 20px; width: 140px;
+ 
+}
+.main1left
+{
+    width:25%;
+    float:left;
+}
+.main1right
+{
+    width:25%;
+    float:right;
+}
+
+
+
+
+
+
